@@ -1,2 +1,8 @@
-# GymTrack
-Control your gym routine
+title: gymtrack
+emoji: 🐳
+colorFrom: red
+colorTo: purple
+sdk: static
+pinned: false
+tags:
+  - deepsite
