@@ -1,7 +1,7 @@
-title: gymtrack
+title: gymtrack2
 emoji: 🐳
-colorFrom: red
-colorTo: purple
+colorFrom: gray
+colorTo: green
 sdk: static
 pinned: false
 tags:
